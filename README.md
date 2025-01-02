@@ -7,8 +7,7 @@ The code enables the choice of several consensus strategies [4]: consensus on in
 Consensus_IPLF.m runs the consensus IPLF.
 Consensus_IPLF.m runs the centralised IPLF.
 
-File circ_vmrnd.m comes from the circular statistics toolbox for Matlab [5]. The consensus for linear models and graph description parts are based on a code provided by Prof. Giorgio
-%Battistelli and written by Dr. Xiangxiang Dong.
+File circ_vmrnd.m comes from the circular statistics toolbox for Matlab [5]. The consensus for linear models and graph description parts are based on a code provided by Prof. Giorgio Battistelli and written by Dr. Xiangxiang Dong.
 
 
 
